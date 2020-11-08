@@ -1,9 +1,8 @@
 name: Github Actions Example
 
 on:
-  pull_request:
-  push:
-    branches: 
+  pull_request:    
+     branches: 
       - master
       - develop
 
